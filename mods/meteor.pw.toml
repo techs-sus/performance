@@ -1,0 +1,10 @@
+name = "Meteor"
+filename = "meteor.jar"
+side = "both"
+
+[download]
+url = "https://meteorclient.com/download?devBuild=latest"
+
+[update]
+
+
