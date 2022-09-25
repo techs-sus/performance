@@ -136,11 +136,6 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
-file = "mods/meteor.pw.toml"
-hash = "68ee67038444ab90b771f85f8dd200b1fcdaaff8bd19533fafde46dab7fde15e"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "1946f660ed8f0b6b4fa1680fbc14f30a0db503b09fac5ffd0635ecd9cfecf6d1"
 metafile = true
